@@ -20,13 +20,13 @@ Obs: É recomendado que os times preparem, no mínimo, o dobro de eti- quetas ne
 
 2.2.3 Posicionamento e Equipamento
 
-Um robô dentro da pequena área (Regra 1.4) deverá ser considerado como "go- leiro". O papel de goleiro pode ser trocado dinamicamente durante a disputa, assim um robô dentro da sua pequena área sempre será considerado como go- leiro. Ao robô goleiro será permitido pegar ou segurar a bola dentro da área. A nenhum dos robôs, exceto o designado como goleiro, será permitido pegar ou segurar a bola de forma a encobrir mais do que 30% da bola, em vista superior e lateral.
+Um robô dentro da pequena área (Regra 1.4) deverá ser considerado como "goleiro". O papel de goleiro pode ser trocado dinamicamente durante a disputa, assim um robô dentro da sua pequena área sempre será considerado como goleiro. Ao robô goleiro será permitido pegar ou segurar a bola dentro da área. A nenhum dos robôs, exceto o designado como goleiro, será permitido pegar ou segurar a bola de forma a encobrir mais do que 30% da bola, em vista superior e lateral.
 
-Cada robô deve ser totalmente independente, com baterias e motores con- tidos em si. Somente comunicação sem fio é permitida para todos os tipos de interação entre o computador "host"e um robô. Os robôs podem ser equipados com braços, pernas, etc., mas devem respeitar as limitações de tamanho, mesmo depois destes equipamentos estarem totalmente expandidos.
+Cada robô deve ser totalmente independente, com baterias e motores con- tidos em si. Somente comunicação sem fio é permitida para todos os tipos de interação entre o computador "host" e um robô. Os robôs podem ser equipados com braços, pernas, etc., mas devem respeitar as limitações de tamanho, mesmo depois destes equipamentos estarem totalmente expandidos.
 
 2.3 Substituições
 
-Somente cinco substituições são permitidas enquanto o jogo estiver em pro- gresso. No meio tempo, qualquer quantidade de substituições pode ser feita. Quando qualquer tipo de substituição é necessária, enquanto o jogo estiver em progresso, o representante do time interessado deverá requisitar um intervalo, e o juiz irá parar o jogo em algum momento apropriado. O jogo irá recomeçar com todos os robôs e bola posicionados nas mesmas posições que estavam ocupando no momento da interrupção. Casos de robôs danificados não estão incluídos na contagem de substituições, poderido estes voltar ao campo após manutenções.
+Somente cinco substituições são permitidas enquanto o jogo estiver em progresso. No meio tempo, qualquer quantidade de substituições pode ser feita. Quando qualquer tipo de substituição é necessária, enquanto o jogo estiver em progresso, o representante do time interessado deverá requisitar um intervalo, e o juiz irá parar o jogo em algum momento apropriado. O jogo irá recomeçar com todos os robôs e bola posicionados nas mesmas posições que estavam ocupando no momento da interrupção. Casos de robôs danificados não estão incluídos na contagem de substituições, poderido estes voltar ao campo após manutenções.
 
 2.4 Tempo técnico
 
