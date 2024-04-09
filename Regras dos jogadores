@@ -4,30 +4,47 @@ Regras
 
 2.1 Sistema Completo
 
-Uma partida deve ser disputada por dois times, cada qual constituído de, no máximo, 5 robôs. Um dos robôs pode ser o goleiro. Durante o jogo, é permitida a presença apenas de três membros de cada time no campo de competição. Deste, apenas um membro pode acessar a área de jogo ou conversar com o juíz, exceto durante os timeouts e durante o intervalo de jogo. Um único computador por equipe pode ser usado, sobretudo dedicado ao processamento visual e para reconhecimento das posições.
+Uma partida deve ser disputada por dois times, cada qual constituído de, no máximo, 5 robôs. Um dos robôs pode ser o goleiro. Durante o jogo, 
+é permitida a presença apenas de três membros de cada time no campo de competição. Deste, apenas um membro pode acessar a área de jogo ou 
+conversar com o juíz, exceto durante os timeouts e durante o intervalo de jogo. Um único computador por equipe pode ser usado, sobretudo 
+dedicado ao processamento visual e para reconhecimento das posições.
 
 2.2 Robôs
 
 2.2.1 Tamanho
 
-O tamanho de cada robô deve ser limitado a 7.5cm x 7.5cm x 7.5cm. A altura da antena de radio-frequência não deve ser considerada neste limite. Os robôs podem vestir uniformes, desde que o tamanho final com o uniforme seja limitado a 8cm x 8cm x 8cm. Um uniforme não pode ser parte do robô, i.e., o robô deve ser capaz de participar de um jogo mesmo sem o uniforme. Esse uniforme deve ser facilmente retirável. Não há limite de peso.
+O tamanho de cada robô deve ser limitado a 7.5cm x 7.5cm x 7.5cm. A altura da antena de radio-frequência não deve ser considerada neste limite. 
+Os robôs podem vestir uniformes, desde que o tamanho final com o uniforme seja limitado a 8cm x 8cm x 8cm. Um uniforme não pode ser parte do robô, i.e.,
+o robô deve ser capaz de participar de um jogo mesmo sem o uniforme. Esse uniforme deve ser facilmente retirável. Não há limite de peso.
 
 2.2.2 Cores
 
-A parte superior dos robôs não deve conter as cores laranja, branco ou cinza e também não deve ser colorida com mais de duas cores diferentes da cor preto e da cor do time. Uma cor, que pode ser azul ou amarelo, a ser definido pelos orga- nizadores, identificará times distintos. Uma região de cor será azul ou amarelo, a ser definido pelos organizadores, e irá identificar os robôs dos times distintos. Todos os robôs devem possuir esta região de cor visível na parte superior. Essa região pode ser de qualquer forma, mas deve ser capaz de conter (pelo menos) um quadrado com 3.5cm de lado ou um círculo com 4cm de diâmetro. A cor de identificação de cada time poderá mudar de partida a partida, portanto a etiqueta usada deverá ser destacável. Quando os times estiverem com as etique- tas com as cores (azul ou amarelo) definidas, os robôs não devem ter nenhuma etiqueta da cor do time adversário. É permitido o uso de patches, porém eles devem seguir as restrições de cores aqui definidas.
+A parte superior dos robôs não deve conter as cores laranja, branco ou cinza e também não deve ser colorida com mais de duas cores diferentes da cor preto e da cor do time.
+Uma cor, que pode ser azul ou amarelo, a ser definido pelos orga- nizadores, identificará times distintos. Uma região de cor será azul ou amarelo, a ser definido pelos 
+organizadores, e irá identificar os robôs dos times distintos. Todos os robôs devem possuir esta região de cor visível na parte superior. Essa região pode ser de qualquer forma,
+mas deve ser capaz de conter (pelo menos) um quadrado com 3.5cm de lado ou um círculo com 4cm de diâmetro. A cor de identificação de cada time poderá mudar de partida a partida,
+portanto a etiqueta usada deverá ser destacável. Quando os times estiverem com as etique- tas com as cores (azul ou amarelo) definidas, os robôs não devem ter nenhuma etiqueta da
+cor do time adversário. É permitido o uso de patches, porém eles devem seguir as restrições de cores aqui definidas.
 
 Obs: É recomendado que os times preparem, no mínimo, o dobro de eti- quetas necessárias tanto para identificação do time quanto para identificação pessoal de cada robô.
 
 2.2.3 Posicionamento e Equipamento
 
-Um robô dentro da pequena área (Regra 1.4) deverá ser considerado como "goleiro". O papel de goleiro pode ser trocado dinamicamente durante a disputa, assim um robô dentro da sua pequena área sempre será considerado como goleiro. Ao robô goleiro será permitido pegar ou segurar a bola dentro da área. A nenhum dos robôs, exceto o designado como goleiro, será permitido pegar ou segurar a bola de forma a encobrir mais do que 30% da bola, em vista superior e lateral.
+Um robô dentro da pequena área (Regra 1.4) deverá ser considerado como "goleiro". O papel de goleiro pode ser trocado dinamicamente durante a disputa, assim um robô dentro da
+sua pequena área sempre será considerado como goleiro. Ao robô goleiro será permitido pegar ou segurar a bola dentro da área. A nenhum dos robôs, exceto o designado como goleiro,
+será permitido pegar ou segurar a bola de forma a encobrir mais do que 30% da bola, em vista superior e lateral.
 
-Cada robô deve ser totalmente independente, com baterias e motores con- tidos em si. Somente comunicação sem fio é permitida para todos os tipos de interação entre o computador "host" e um robô. Os robôs podem ser equipados com braços, pernas, etc., mas devem respeitar as limitações de tamanho, mesmo depois destes equipamentos estarem totalmente expandidos.
+Cada robô deve ser totalmente independente, com baterias e motores con- tidos em si. Somente comunicação sem fio é permitida para todos os tipos de interação entre o computador
+"host" e um robô. Os robôs podem ser equipados com braços, pernas, etc., mas devem respeitar as limitações de tamanho, mesmo depois destes equipamentos estarem totalmente expandidos.
 
 2.3 Substituições
 
-Somente cinco substituições são permitidas enquanto o jogo estiver em progresso. No meio tempo, qualquer quantidade de substituições pode ser feita. Quando qualquer tipo de substituição é necessária, enquanto o jogo estiver em progresso, o representante do time interessado deverá requisitar um intervalo, e o juiz irá parar o jogo em algum momento apropriado. O jogo irá recomeçar com todos os robôs e bola posicionados nas mesmas posições que estavam ocupando no momento da interrupção. Casos de robôs danificados não estão incluídos na contagem de substituições, poderido estes voltar ao campo após manutenções.
+Somente cinco substituições são permitidas enquanto o jogo estiver em progresso. No meio tempo, qualquer quantidade de substituições pode ser feita. 
+Quando qualquer tipo de substituição é necessária, enquanto o jogo estiver em progresso, o representante do time interessado deverá requisitar um intervalo, 
+e o juiz irá parar o jogo em algum momento apropriado. O jogo irá recomeçar com todos os robôs e bola posicionados nas mesmas posições que estavam ocupando 
+no momento da interrupção. Casos de robôs danificados não estão incluídos na contagem de substituições, poderido estes voltar ao campo após manutenções.
 
 2.4 Tempo técnico
 
-Um tempo pode ser requisitado pelo representante do time a qualquer momento do jogo, mas este será disponibilizado apenas no momento em que for oportuno. Cada time tem direito a 3 tempos técnicos por partida, cada um com duração máxima de 3 minutos.
+Um tempo pode ser requisitado pelo representante do time a qualquer momento do jogo, mas este será disponibilizado apenas no momento em que for oportuno. 
+Cada time tem direito a 3 tempos técnicos por partida, cada um com duração máxima de 3 minutos.
